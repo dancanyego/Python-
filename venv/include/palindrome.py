@@ -5,4 +5,6 @@ reversed_string = org_string[::-1]
 if org_string==reversed_string:
     print("WOOW The given sring is a pallindrome!!!")
 else:
-    print("Pleease Try again")
+    print("Pleese Try again")
+
+
