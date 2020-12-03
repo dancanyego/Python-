@@ -16,3 +16,6 @@ first_string = "Heey Everyone "
 print(first_string)
 
 ## How to access the Character of a String...??
+## Lets Get the 6 th Character in the String
+
+first_string[6]
