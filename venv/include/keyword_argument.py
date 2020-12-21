@@ -13,3 +13,5 @@ root1,root2 = quadratic(a=1,b=5,c=6)
 # print(root1,root2)
 print("x1: "+str(root1))
 print("x2: "+str(root2))
+
+
